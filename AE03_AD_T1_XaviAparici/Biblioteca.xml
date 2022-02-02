@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<libros>
+    <libro>
+        <id>1</id>
+        <titulo>Hamlet</titulo>
+        <autor>Shakespeare</autor>
+        <anyoPubli>1609</anyoPubli>
+        <editorial>William</editorial>
+        <nPaginas>500</nPaginas>
+    </libro>
+    <libro>
+        <id>2</id>
+        <titulo>Don Quijote</titulo>
+        <autor>Miguel</autor>
+        <anyoPubli>1615</anyoPubli>
+        <editorial>Voramar</editorial>
+        <nPaginas>452</nPaginas>
+    </libro>
+    <libro>
+        <id>3</id>
+        <titulo>El principito</titulo>
+        <autor>Juan</autor>
+        <anyoPubli>1524</anyoPubli>
+        <editorial>Libroteca</editorial>
+        <nPaginas>399</nPaginas>
+    </libro>
+    <libro>
+        <id>4</id>
+        <titulo>Odisea</titulo>
+        <autor>Ramon</autor>
+        <anyoPubli>2000</anyoPubli>
+        <editorial>Xuquer</editorial>
+        <nPaginas>502</nPaginas>
+    </libro>
+    <libro>
+        <id>5</id>
+        <titulo>Guerra y Paz</titulo>
+        <autor>Francisco</autor>
+        <anyoPubli>1988</anyoPubli>
+        <editorial>Carlet</editorial>
+        <nPaginas>369</nPaginas>
+    </libro>
+</libros>
